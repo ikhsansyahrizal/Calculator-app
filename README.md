@@ -1,27 +1,18 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+## Preview App
 
-# Calculator Layout Boss Challenge
+* for now it's only the ui, the functionality are not implement yet.
 
-No knowledge is your own until you put it into practice. Using what you've learnt about auto layout, stack views and setting constraints, create the following UI. 
+this app using auto layout with container and constraint to adjust he view position so it can support landscape and potrait layout.
 
-## Portrait
 
-![Portrait](Documentation/Portrait.png)
+| interface builder constraint                                                                                                                     |                                    |
+| -----------------------------------------------------------------------------------------------------------------------------------------------  | -----------------------------------|
+| <img width="384" alt="Screenshot 2024-07-31 at 09 56 18" src="https://github.com/user-attachments/assets/e4d8a7e1-8733-4554-b228-22810ca5fe0b">  | Using container view and constraint|
 
-## Landscape
-![Landscape](Documentation/Landscape.png)
+# portrait
+<img width="389" alt="Screenshot 2024-07-31 at 09 48 20" src="https://github.com/user-attachments/assets/1dea71ac-d31a-426c-ac85-b474767f1f43">
 
-This is a difficult challenge. You pass the challenge if you can create the vertical and horizontal stacks required for the layout. Once you've done that, you can also get extra credit if you figure out how to layout the small details.
 
-Bronze Medal: If you can figure out how to have the layout be constrained to the Safe Areas in Portrait and Landscape. (Notice the distance to the edges is different between landscape and portrait.
-
-Silver Medal: If you can figure out how to indent the Label with the 0 so that there is 20px distance from the right edge of the screen.
-
-Gold Medal: If you can figure out how to make the 0 button take up twice as much width as the "." and "=" buttons.
-
-If you get stuck, check out the solution video in the next lesson.
-
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](Documentation/readme-end-banner.png)
+# landscape
+<img width="785" alt="Screenshot 2024-07-31 at 09 48 41" src="https://github.com/user-attachments/assets/f75b23a7-15c9-4c24-8b7b-6d854145ddbb">
 
